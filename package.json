@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jurscheler/COMP2156.git"
+        "url": "https://github.com/jurscheler/COMP2156.git"
     },
     "eslintConfig": {
         "extends": [
