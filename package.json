@@ -19,9 +19,10 @@
         "build": "react-scripts build",
         "test": "echo \"Warning: No tests created yet.\"",
         "eject ": "react - scripts eject ",
-        "predeploy": "yarn run build",
+        "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
     },
+    "homepage": "https://jurscheler.github.io/COMP2156",
     "repository": {
         "type": "git",
         "url": "https://github.com/jurscheler/COMP2156.git"
