@@ -27,6 +27,9 @@ jobs:
 
       - name: Build 
         run: npm run build
+      
+      - name: Copy public to build 
+        run: cp 
         
 
       - name: Deploy to GH Pages 
